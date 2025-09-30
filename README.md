@@ -5,7 +5,7 @@ DATASET:<br>
 <a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/HR-Employee-Attrition.csv"></a><BR>
 
 DASHBOARD:<BR>
-<a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20234623.png"></a><br?
+<a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20234623.png"></a><br>
 <a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20234633.png"></a><br>
 
 
