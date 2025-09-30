@@ -1,7 +1,12 @@
 PROJECT OBJECTIVE:<br>
 This project analyzes HR data to monitor attrition, employee demographics, and retention factors using Power BI. The dashboard highlights key insights to support workforce planning and employee engagement strategies.
 
-DATASET:<BR>
+DATASET:<br>
+<a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/HR-Employee-Attrition.csv"></a><BR>
+
+DASHBOARD:<BR>
+<a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20234623.png"></a><br?
+<a href="https://github.com/sherinstella/HR-Atrrition-Analysis-Dashboard/blob/main/Screenshot%202025-09-30%20234633.png"></a><br>
 
 
 KEY QUESTIONS:<br>
